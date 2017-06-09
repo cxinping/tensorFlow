@@ -1,1 +1,1 @@
-tensorboard  --logdir=.\log_tf\iris\
+tensorboard  --logdir=E:/quant/WinPythonbi36/log_tf/iris
