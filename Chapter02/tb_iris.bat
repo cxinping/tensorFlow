@@ -1,0 +1,1 @@
+tensorboard  --logdir=.\log_tf\iris\
