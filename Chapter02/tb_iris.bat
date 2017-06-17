@@ -1,1 +1,0 @@
-tensorboard  --logdir=E:/quant/WinPythonbi36/log_tf/iris
